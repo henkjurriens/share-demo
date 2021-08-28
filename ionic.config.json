@@ -1,0 +1,7 @@
+{
+  "name": "share-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
