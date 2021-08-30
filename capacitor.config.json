@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "share-demo",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "nl.henkjurriens.sharedemo",
+  "appName": "Share demo",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }

@@ -1,0 +1,6 @@
+{
+	"appId": "nl.henkjurriens.sharedemo",
+	"appName": "Share demo",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
